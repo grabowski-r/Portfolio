@@ -7,3 +7,13 @@ oraz podstaw pracy z narzędziami testerskimi.
 
 ## 🧰 Zawartość repozytorium
 .......
+
+
+
+
+
+
+
+## 🔒 Zabezpieczenie repozytorium
+
+Repozytorium zostało skonfigurowane z zasadami ochrony gałęzi (`branch protection rules`), aby zapobiec przypadkowym lub nieautoryzowanym zmianom w głównej gałęzi `main`.
